@@ -136,19 +136,3 @@ bottom: 0%;
 /* footer style :end */
 
 
-@media screen and (max-width: 688px) {
-  .topnav.responsive {position: relative;}
-  .topnav.responsive .icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-  }
-  @media screen and (max-width: 688px){
-    .containar{width: 100%;}
-    .player.bannar.footer{
-       position: absolute;
-    right: 0;
-    top: 0;
-    }
-  }
